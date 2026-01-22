@@ -25,6 +25,10 @@ iOS Developer passionate about building great mobile experiences.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-han21&layout=compact&theme=default&hide_border=true" />
 </p>
 
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allen-han21&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## Featured Projects
 
 | Project | Description |
